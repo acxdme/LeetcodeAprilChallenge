@@ -1,3 +1,9 @@
+/* 
+%Difficulty-level= Medium
+% Do check the resource "https://www.youtube.com/watch?v=2MmGzdiKR9Y" to understand the code more clearly
+%Time Complexicity O(n),Space Complexicity O(1)
+*/
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
