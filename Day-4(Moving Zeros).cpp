@@ -1,5 +1,5 @@
-/* Difficulty easy for O(n) space but medium for O(1) space 
-O(n) space and O(n) time 
+/* Difficulty:easy 
+O(n) space and O(n) time Approach
 */
 
 class Solution {
@@ -29,7 +29,8 @@ public:
 
 
 
-//O(1) space approach
+// O(n) time and O(1) space approach
+//using two pointers left(l) and right(r) 
 
   class Solution {
 public:
